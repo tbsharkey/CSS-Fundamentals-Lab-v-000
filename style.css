@@ -12,3 +12,7 @@ img {
   display: block;
   margin: auto;
 }
+
+nav <a> {
+  color: grey;
+}

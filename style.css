@@ -35,4 +35,5 @@ figcaption {
 #details div {
   float: left;
   text-align: center;
+  margin: auto;
 }
